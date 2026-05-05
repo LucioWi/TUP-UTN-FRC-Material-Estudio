@@ -1,5 +1,5 @@
 # TUP-UTN-FRC-Material-Estudio
-Todo el material de estudio de la carrera Técnico en Programación de la Universidad Tecnológica Nacional - Facultad Regional de Córdoba.
+Todo el material de estudio de la carrera Técnico Universitario en Programación de la Universidad Tecnológica Nacional - Facultad Regional de Córdoba.
 ## Nivelación:
 - Parcial resuelto de Programación Datos y teórico de Introducción a la Vida Universitaria.
 ## Año 1:
