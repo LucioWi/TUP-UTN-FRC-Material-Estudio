@@ -23,3 +23,6 @@ Todo el material de estudio de la carrera Técnico Universitario en Programació
 - (Por cursar)
 ##
 El contenido incluído en este repositorio no muestra la información completa de cada asignatura. Solo se documentan los distintos PDF de caracter teórico, guías prácticas, documentos de TP's y simulacros de parciales. A excepción de algunos casos particulares, todo lo relacionado a la estructura temática, metodologías de evaluación, tareas, cuestionarios o recursos audiovisuales no son ni serán guardados en este repositorio.
+
+--- 
+<h6 align="center">Universidad Tecnológica Nacional - Facultad Regional de Córdoba - Tecnicatura Universitaria en Programación - 2026</h6>
