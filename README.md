@@ -1,5 +1,5 @@
 # TUP-UTN-FRC-Material-Estudio
-Todo el material de estudio de la carrera Técnico Universitario en Programación de la Universidad Tecnológica Nacional - Facultad Regional de Córdoba.
+Todo el material de estudio de la carrera Técnicatura Universitaria en Programación de la Universidad Tecnológica Nacional - Facultad Regional de Córdoba.
 ## Nivelación:
 - Parcial resuelto de Programación Datos y teórico de Introducción a la Vida Universitaria.
 ## Año 1:
@@ -15,12 +15,16 @@ Todo el material de estudio de la carrera Técnico Universitario en Programació
 - Programación II.
 ## Año 2:
 ### Tercer Cuatrimestre
-- Base de Datos II (Sin finalizar).
-- Inglés II (Sin finalizar).
-- Metodología de Sistemas de Información (Sin finalizar).
-- Programación III (Sin finalizar).
+- Base de Datos II.
+- Inglés II.
+- Metodología de Sistemas de Información.
+- Programación III.
 ### Cuarto Cuatrimestre
-- (Por cursar)
+- Gestión de Desarrollo de Software.
+- Introducción al Análisis de Datos.
+- Legislación.
+- Metodología de Sistemas II.
+- Programación IV.
 ##
 El contenido incluído en este repositorio no muestra la información completa de cada asignatura. Solo se documentan los distintos PDF de caracter teórico, guías prácticas, recursos audiovisuales (solo de programación), documentos de TP's y simulacros de parciales. A excepción de algunos casos particulares, todo lo relacionado a la estructura temática, metodologías de evaluación, tareas o cuestionarios no son ni serán guardados en este repositorio.
 
